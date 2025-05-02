@@ -1,5 +1,6 @@
 pandas
-pathlib
-numpy
+numpy==1.26.4
+scikit-learn
 pandas_ta
-pkg_resources
+sqlalchemy
+setuptools
